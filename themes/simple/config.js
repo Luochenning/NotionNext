@@ -3,7 +3,7 @@ const CONFIG = {
   SIMPLE_LOGO_IMG: '/Logo.webp',
   SIMPLE_TOP_BAR: true, // 显示顶栏
   SIMPLE_TOP_BAR_CONTENT: process.env.NEXT_PUBLIC_THEME_SIMPLE_TOP_TIPS || '',
-  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>在尝试和云朵共舞的梦游者<br/>/一只破打游戏的、灵魂飘在异世界的神秘学寄居人</div>正在梦境和现实的交界处遨游中......',
+  SIMPLE_LOGO_DESCRIPTION: process.env.NEXT_PUBLIC_THEME_SIMPLE_LOGO_DESCRIPTION || '<div>在尝试和云朵共舞的梦游者<br/>一只破打游戏的、灵魂长期飘在异世界的‘寄居人’<br/>尝试触摸各种各样神秘学知识的神秘学探索者<br/>正在梦境和现实的交界处遨游中......</div>',
 
   SIMPLE_AUTHOR_LINK: process.env.NEXT_PUBLIC_AUTHOR_LINK || '#',
 
