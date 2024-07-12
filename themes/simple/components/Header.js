@@ -22,8 +22,8 @@ export default function Header(props) {
                 priority={true}
                 src={siteInfo?.icon}
                 className='rounded-full'
-                width={100}
-                height={100}
+                width={90}
+                height={90}
                 alt={siteConfig('AUTHOR')}
               />
             </div>
